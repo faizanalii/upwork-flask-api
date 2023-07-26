@@ -4,7 +4,7 @@ from typing import List, Dict
 MODEL: str = "gpt-4-0613"
 
 """
-Get the AI generated description from the original description
+Get the response for query asked
 """
 
 
